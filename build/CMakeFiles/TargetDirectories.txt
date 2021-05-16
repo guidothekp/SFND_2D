@@ -1,0 +1,4 @@
+/Users/kamesh/work/development/SFND_2D_kk/build/CMakeFiles/rebuild_cache.dir
+/Users/kamesh/work/development/SFND_2D_kk/build/CMakeFiles/edit_cache.dir
+/Users/kamesh/work/development/SFND_2D_kk/build/CMakeFiles/mtpcs.dir
+/Users/kamesh/work/development/SFND_2D_kk/build/CMakeFiles/2D_feature_tracking.dir
